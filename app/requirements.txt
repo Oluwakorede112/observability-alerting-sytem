@@ -1,0 +1,7 @@
+fireworks-ai
+slack-sdk   
+together   
+uvicorn
+dotenv
+fastapi
+colorlog
